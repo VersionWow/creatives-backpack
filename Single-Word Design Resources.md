@@ -1,0 +1,7 @@
+- Bookmarks.design
+- Principles.design
+- Design.dev
+- Lessons.design
+- Staff.design
+- Refero.design
+- Personalsit.es
